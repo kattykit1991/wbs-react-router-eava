@@ -1,107 +1,114 @@
 [
   {
     "id": 1,
-    "slug": "berlin",
-    "title": "Berlin, Germany",
-    "image": "https://images.pexels.com/photos/2570063/pexels-photo-2570063.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Join global hackathons and explore Europe’s startup capital."
+    "slug": "aeternus",
+    "title": "Aeternus",
+    "image": "/images/aeternus.webp",
+    "description": "Die „Lichtstadt“ besitzt weiße Marmortürme, kristalline Arkaden und hängende Luftschiffdocks. Das Rauschen der Ewigen Wasserfälle begleitet das Stadtleben."
   },
   {
     "id": 2,
-    "slug": "tokyo",
-    "title": "Tokyo, Japan",
-    "image": "https://images.pexels.com/photos/19693257/pexels-photo-19693257.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Discover neon skylines, ancient temples, and cutting-edge innovation."
+    "slug": "port-azuul",
+    "title": "Port Azuul",
+    "image": "/images/port-azuul.webp",
+    "description": "Eine Hafenmetropole aus bläulich schimmerndem Stein, die sich über mehrere Ebenen an gewaltige Klippen klammert. Akademische Hallen, Minen und geschäftige Docks prägen ihre unterschiedlichen Stadtviertel."
   },
   {
     "id": 3,
-    "slug": "new-york",
-    "title": "New York City, USA",
-    "image": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "The city that never sleeps, where tech, art, and culture collide."
+    "slug": "karathor",
+    "title": "Karathor",
+    "image": "/images/karathor.webp",
+    "description": "Gewaltige Hallen sind in den Schwarzfels eines Berges gehauen. Leuchtende Aether-Kristalle, kupferne Leitungen und das Hämmern der Raffinerien bestimmen die Atmosphäre."
   },
   {
     "id": 4,
-    "slug": "cape-town",
-    "title": "Cape Town, South Africa",
-    "image": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Hike Table Mountain and experience the vibrant coastal city."
+    "slug": "eklesia",
+    "title": "Eklésia",
+    "image": "/images/eklesia.webp",
+    "description": "Weißer Marmor und Aether-Glas bilden eine prächtige Stadt in eisiger Umgebung. Warmer Dampf aus kupfernen Leitungen hält die geschäftigen Straßen bewohnbar."
   },
   {
     "id": 5,
-    "slug": "sydney",
-    "title": "Sydney, Australia",
-    "image": "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Explore the Sydney Opera House and surf famous Bondi Beach."
+    "slug": "duromar",
+    "title": "Duro’mar",
+    "image": "/images/duromar.webp",
+    "description": "Eine robuste Stadt aus rotem Sandstein und schweren Holzbalken. Trommeln begleiten das Leben in den Klansvierteln; eine leuchtende Oasensäule bildet ihr Zentrum."
   },
   {
     "id": 6,
-    "slug": "barcelona",
-    "title": "Barcelona, Spain",
-    "image": "https://images.pexels.com/photos/21558623/pexels-photo-21558623.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Admire Gaudí’s masterpieces and enjoy Mediterranean vibes."
+    "slug": "feywacht",
+    "title": "Feywacht",
+    "image": "/images/feywacht.webp",
+    "description": "Kleine Holzhäuser mit Reetdächern liegen in einem tiefen Tal an einem klaren See. Nachts erhellen leuchtendes Moos und andere Pflanzen die Siedlung."
   },
   {
     "id": 7,
-    "slug": "dubai",
-    "title": "Dubai, UAE",
-    "image": "https://images.pexels.com/photos/30977249/pexels-photo-30977249.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Shop futuristic malls and marvel at the Burj Khalifa skyline."
+    "slug": "aelrenia",
+    "title": "Aelrenia",
+    "image": "/images/aelrenia.webp",
+    "description": "Häuser aus lebendem Sängerholz wachsen zwischen Kronen und Wurzeln silberner Bäume. Die Pflanzen geben ein grünes Licht ab, das auf Geräusche reagiert."
   },
   {
     "id": 8,
-    "slug": "rio",
-    "title": "Rio de Janeiro, Brazil",
-    "image": "https://images.pexels.com/photos/23732401/pexels-photo-23732401.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Dance through Carnival and soak up sunshine on Copacabana."
+    "slug": "zwillingsflut",
+    "title": "Zwillingsflut",
+    "image": "/images/zwillingsflut.webp",
+    "description": "Treibholz, Korallen und Aether-Glas verbinden Häuser über und unter Wasser. Steganlagen dienen als Versorgungsstopp für Schiffe und aquatische Reisende."
   },
   {
     "id": 9,
-    "slug": "rome",
-    "title": "Rome, Italy",
-    "image": "https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Walk through ancient history at the Colosseum and Vatican City."
+    "slug": "silberwacht",
+    "title": "Silberwacht",
+    "image": "/images/silberwacht.webp",
+    "description": "Eine wehrhafte Stadt auf einem Küstenüberhang, geprägt von Ordensrittern und silberglänzenden Aether-Einlagen. Hinter den strengen Mauern liegen warme Unterkünfte und eine lebendige Kasernentaverne."
   },
   {
     "id": 10,
-    "slug": "bangkok",
-    "title": "Bangkok, Thailand",
-    "image": "https://images.pexels.com/photos/11392617/pexels-photo-11392617.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Enjoy street food, floating markets, and golden temples."
+    "slug": "celon",
+    "title": "Celon",
+    "image": "/images/celon.webp",
+    "description": "Verkohlte Balken und teilweise glasig geschmolzene Fundamente erinnern an einen verheerenden Brand. In nebligen Nächten glimmt Rote Erosion in den verlassenen Kellern."
   },
   {
     "id": 11,
-    "slug": "paris",
-    "title": "Paris, France",
-    "image": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Stroll by the Eiffel Tower and discover world-class cuisine."
+    "slug": "eriden",
+    "title": "Eriden",
+    "image": "/images/eriden.webp",
+    "description": "Umgebaute Schiffswracks und magisch geformte Türme säumen eine geschützte Bucht. Die Quelle beschreibt eine ungewöhnlich friedliche Atmosphäre, in der Piraten und Gelehrte nebeneinandersitzen."
   },
   {
     "id": 12,
-    "slug": "san-francisco",
-    "title": "San Francisco, USA",
-    "image": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Cross the Golden Gate Bridge and explore Silicon Valley."
+    "slug": "gypsea-rock",
+    "title": "Gypsea-Rock",
+    "image": "/images/gypsea-rock.webp",
+    "description": "Eine Siedlung auf einem zerklüfteten Felsdorn im Ozean. Gestrandete Schiffe dienen als Häuser, während Seilbrücken Wohnhöhlen und Stege verbinden."
   },
   {
     "id": 13,
-    "slug": "istanbul",
-    "title": "Istanbul, Turkey",
-    "image": "https://images.pexels.com/photos/13692815/pexels-photo-13692815.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "A bridge between Europe and Asia with rich cultural heritage."
+    "slug": "leet",
+    "title": "Leet",
+    "image": "/images/leet.webp",
+    "description": "Gedrungene Schieferhäuser schmiegen sich an bewaldete Berghänge. Eine warme, namenlose Taverne bildet einen Gegenpol zur verschlossenen Atmosphäre des Dorfes."
   },
   {
     "id": 14,
-    "slug": "vancouver",
-    "title": "Vancouver, Canada",
-    "image": "https://images.pexels.com/photos/30294477/pexels-photo-30294477.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Ski mountains in the morning, kayak the Pacific in the afternoon."
+    "slug": "wuestenglimmer",
+    "title": "Wüstenglimmer",
+    "image": "/images/wuestenglimmer.webp",
+    "description": "Glaspaläste aus verspiegeltem Quarz umgeben einen farbenfrohen Basar. Karawanen und Wüstensegler treffen zwischen Zeltdächern, Seidenbannern und Gewürzständen zusammen."
   },
   {
     "id": 15,
-    "slug": "marrakech",
-    "title": "Marrakech, Morocco",
-    "image": "https://images.pexels.com/photos/15360681/pexels-photo-15360681.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Explore colorful souks and the magic of the desert at night."
+    "slug": "illadon",
+    "title": "Illadon",
+    "image": "/images/illadon.webp",
+    "description": "Neue Fachwerkhäuser stehen neben den ausgebrannten Skeletten alter Steinbauten. Ein gewaltiger Wasserfall und eine provisorische Brücke prägen die geteilte Siedlung."
+  },
+  {
+    "id": 16,
+    "slug": "aehrenstadt",
+    "title": "Ährenstadt",
+    "image": "/images/aehrenstadt.webp",
+    "description": "Eine hohe Ringmauer schützt die ruhige Siedlung um einen alten Basaltturm. Außerhalb der Mauern leuchten die Ährenfelder nachts in sanftem Cyan."
   }
 ]
